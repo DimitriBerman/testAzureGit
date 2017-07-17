@@ -1,0 +1,182 @@
+﻿[
+	{
+		"firstName": "George",
+		"lastName": "Crossland",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Rick",
+		"lastName": "Broman",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Travis",
+		"lastName": "Nilges",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Dan",
+		"lastName": "Witty",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Huey",
+		"lastName": "Gerhard",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Contessa",
+		"lastName": "Brown",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Randel",
+		"lastName": "Douglass ",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Kathy",
+		"lastName": "Veil ",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Daisy",
+		"lastName": "Garvey",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Robert",
+		"lastName": "Hutchens ",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Jack",
+		"lastName": "Looker",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Celia",
+		"lastName": "Laney",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Conrad",
+		"lastName": "Waltman",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Steve",
+		"lastName": "Walker",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Philip",
+		"lastName": "Scott",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Mike",
+		"lastName": "Conley",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Jessica",
+		"lastName": "Mendez",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Philip",
+		"lastName": "Phares",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Nicole",
+		"lastName": "Fluty",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Tim",
+		"lastName": "Parker",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Luke",
+		"lastName": "Conley",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Mike",
+		"lastName": "Rogers",
+		"gender": "Male"
+	},
+	{
+		"firstName": "William",
+		"lastName": "Roberson",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Jarred",
+		"lastName": "Iceberg",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Brandon",
+		"lastName": "Bonner",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Kat",
+		"lastName": "Chavez",
+		"gender": "Male"
+	},
+	{
+		"firstName": "James",
+		"lastName": "Howlett",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Stephanie",
+		"lastName": "Rodriguez",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Crystal",
+		"lastName": "May",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Janet ",
+		"lastName": "Dyne",
+		"gender": "Female"
+	},
+	{
+		"firstName": "Robert",
+		"lastName": "Banner",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Steve",
+		"lastName": "Rogers",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Hank",
+		"lastName": "McCoy",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Barry",
+		"lastName": "Allen",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Garfield",
+		"lastName": "Logan",
+		"gender": "Male"
+	},
+	{
+		"firstName": "Nick",
+		"lastName": "Mitchell",
+		"gender": "Male"
+	}
+]
